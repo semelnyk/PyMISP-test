@@ -1,4 +1,4 @@
-# MISP testing
+# PyMISP testing
 
 Simple python scripts to test PyMISP/ExpandedPyMISP
 
