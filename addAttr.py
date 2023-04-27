@@ -3,8 +3,8 @@ from io import open
 from pymisp import PyMISP
 
 # Add your MISP URL and API key here
-misp_url = "https://misp.intelfp.com/"
-misp_key = "yX7JeRrt8qSUoN8byopev4xkmACJwdEfHtT85q4q"
+misp_url = "https://.com/"
+misp_key = ""
 misp_verifycert = True
 
 if __name__ == '__main__':
