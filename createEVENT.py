@@ -1,7 +1,7 @@
 import argparse
 from pymisp import ExpandedPyMISP, MISPEvent
 
-# Add your MISP URL and API key here
+# Add your MISP creds here
 misp_url = "https://.com/"
 misp_key = ""
 misp_verifycert = True
